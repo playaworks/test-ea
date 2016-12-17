@@ -1,3 +1,3 @@
 # test-ea
 
-Testing the branching/merging feature.
+Now testing the deploy feature
